@@ -4,3 +4,9 @@
 [submodule "components/espmqtt"]
 	path = components/espmqtt
 	url = https://github.com/tuanpmt/espmqtt.git
+[submodule "components/lcd/Adafruit-GFX"]
+	path = components/lcd/Adafruit-GFX
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "components/lcd/Adafruit_ILI9341"]
+	path = components/lcd/Adafruit_ILI9341
+	url = https://github.com/adafruit/Adafruit_ILI9341
